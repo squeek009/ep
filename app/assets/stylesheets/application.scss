@@ -21,7 +21,7 @@
 }
 
 .ephome{
-	margin-right: 20px;
+	margin-right: 10px;
 }
 
 /************************************************************************
@@ -36,6 +36,7 @@
   position: absolute;
   top: 0;
   border-bottom: 2px solid #f0f0f0;
+
  
 }
 .navbar.active {
@@ -98,3 +99,4 @@
 .navbar-default .dropdown:hover>.dropdown-menu {
  
 }
+body { padding-top: 70px; }
